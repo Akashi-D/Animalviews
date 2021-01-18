@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+}
+
+#content{
+    width: 100%;
+}
+
+nav{
+    position: fixed;
+    width: 100%;
+    padding: 20px;
+    background-color: white;
+    border-bottom: 5px solid orange;
+}
+
+
+nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+#homeLk{
+    margin-left: 500px;
+}
+
+#homeLk:hover{
+    color: orange;
+    text-decoration: underline;
+}
+
+
+#aboutLk{
+ padding: 20px;
+}
+
+#aboutLk:hover{
+    color: orange;
+    text-decoration: underline;
+}
+
+#contacLk{
+    font-size: 25px;
+}
+#contacLk:hover{
+    color: orange;
+    text-decoration: underline;
+}
+
+
+
+#homeimg{
+    margin-top: 50px;
+    width: 400px;
+    height: 400px;
+    border-radius: 200px
+}
+
+
+#img111{
+    padding: 100px;
+    background-color: black;   
+}
+
+.welcomeNote{
+    float: right;
+    color: white;
+    margin-right: 100px;
+    font-size: 30px;
+}
+
+#myIntro{
+    margin-left: 250px;
+    font-style: italic;
+    margin-top: 100px;
+}
+
+#nameIntro{
+    color: orange;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+#introTxt{
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 1.5px;
+    margin-top: 70px;
+}
+
+
+#myInfo{
+    margin-top: 50px;
+    margin-left: 500px;
+    width: 100%;
+}
+
+#subHeaders{
+    color: orange;
+    font-weight: 700;
+}
+
+#state1{
+    color: blue;
+    letter-spacing: 1.5px;
+    font-weight: 700;
+    margin-top: -20px
+}
+
+#text1{
+    text-align: justify;
+    width: 400px;
+    color: grey;
+}
+
+#gtBank{
+    width: 300px;
+}
